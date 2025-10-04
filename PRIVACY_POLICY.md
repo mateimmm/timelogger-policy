@@ -100,7 +100,7 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 **Time Logger Support**
 Email: support@trackmytime.xyz
-Website: [https://timeloggerapp.com](https://trackmytime.xyz/)
+Website: https://trackmytime.xyz
 
 ## 12. Governing Law
 
