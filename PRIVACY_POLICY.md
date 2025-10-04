@@ -99,8 +99,8 @@ Your continued use of the app after changes become effective constitutes accepta
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
 **Time Logger Support**
-Email: support@timeloggerapp.com
-Website: https://timeloggerapp.com
+Email: support@trackmytime.xyz
+Website: [https://timeloggerapp.com](https://trackmytime.xyz/)
 
 ## 12. Governing Law
 
